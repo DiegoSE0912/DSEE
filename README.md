@@ -1,6 +1,6 @@
 # DSEE
 <h1 align="center">Hi 👋, I'm DIEGO EVANGELISTA ESPINOZA</h1>
-<h3 align="center">A passionate web developer from Perú 🇵🇪 </h3>
+<h3 align="center">A passionate web developer from Perú</h3>
 
 - 📫 How to reach me **diego_sebas9@hotmail.com**
 
